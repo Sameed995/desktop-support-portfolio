@@ -82,7 +82,6 @@ The goal of this portfolio is to:
 ## Contact
 
 - Email: sameedshaikh346@gmail.com  
-- Location: Vadodara, Gujarat  
 - GitHub: https://github.com/Sameed995  
 
 ---
