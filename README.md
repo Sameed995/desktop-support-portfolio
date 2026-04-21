@@ -48,6 +48,15 @@ This repository reflects my approach to learning by **building, testing, and sol
 - Managed system using command-line tools  
 - Practiced basic Linux administration  
 
+### PC Assembly
+- Built and assembled multiple desktop systems with compatible components
+- Installed Windows 10/11 and configured BIOS/UEFI settings (boot priority, XMP, basic optimization)
+- Installed and updated drivers, performed system updates, and ensured system stability
+- Diagnosed and resolved hardware issues such as no display, boot failures, and overheating
+- Performed cable management and ensured proper airflow for thermal efficiency
+- Tested system performance and stability after assembly
+- Set up peripherals including monitors, keyboards, and mice
+
 *(More projects and improvements will be added over time.)*
 
 ---
