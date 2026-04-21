@@ -57,6 +57,14 @@ This repository reflects my approach to learning by **building, testing, and sol
 - Tested system performance and stability after assembly
 - Set up peripherals including monitors, keyboards, and mice
 
+### Windows Kiosk Mode Setup (Microsoft Edge)
+
+- Configured Windows Kiosk Mode (Assigned Access) for single-app usage  
+- Set up Microsoft Edge in interactive display mode  
+- Restricted system access to a defined browsing environment  
+- Tested kiosk functionality including user session behavior and app locking  
+- Verified setup by running a dedicated kiosk session with a fixed URL (microsoft.com) 
+
 *(More projects and improvements will be added over time.)*
 
 ---
