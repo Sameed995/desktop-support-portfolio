@@ -82,7 +82,6 @@ The goal of this portfolio is to:
 ## Contact
 
 - Email: sameedshaikh346@gmail.com  
-- GitHub: https://github.com/Sameed995  
 
 ---
 
